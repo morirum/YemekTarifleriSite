@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34601.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Yemek_Tarifleri_sitem", "Yemek_Tarifleri_sitem\", "{EA95960B-CE78-46B6-B1B4-632A059097D8}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_64268"
+		Debug.AspNetCompiler.PhysicalPath = "Yemek_Tarifleri_sitem\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64268\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_64268"
+		Release.AspNetCompiler.PhysicalPath = "Yemek_Tarifleri_sitem\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64268\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "64268"
+		SlnRelativePath = "Yemek_Tarifleri_sitem\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2E9F601E-4E5C-48C0-B65A-1CD2F47C7CF8}"
+	ProjectSection(SolutionItems) = preProject
+		Class1.cs = Class1.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA95960B-CE78-46B6-B1B4-632A059097D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA95960B-CE78-46B6-B1B4-632A059097D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A42336C3-A1A0-4748-B510-C839D8749D56}
+	EndGlobalSection
+EndGlobal
